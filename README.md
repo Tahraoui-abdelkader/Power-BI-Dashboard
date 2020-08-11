@@ -1,5 +1,5 @@
-##Power-BI-Dashboard
-#Description
+#Power-BI-Dashboard
+
 
 Example of a dashboard using a Store dataset:
 
