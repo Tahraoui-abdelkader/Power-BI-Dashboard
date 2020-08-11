@@ -1,4 +1,6 @@
-# Power-BI-Dashboard
+##Power-BI-Dashboard
+#Description
+
 Example of a dashboard using a Store dataset:
 
 - total sales
