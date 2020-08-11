@@ -9,7 +9,7 @@ I made a prototype of a dashboard for decision support and a global vision on th
 
 ## Bird-eye view of the Data
 
-the data which I used is composed of:
+The data which I used is composed of:
 
 - table of products which has 101 products
 - Sellers table which has 45 Vendors
