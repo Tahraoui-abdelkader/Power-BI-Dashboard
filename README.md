@@ -43,8 +43,10 @@ Download and install Power BI version:2020 https://powerbi.microsoft.com/en-us/d
 - Total products
 - Total unit sales
 
-## 
+## Dashboard 
+![3333](https://user-images.githubusercontent.com/48574378/89961495-bb30b700-dc39-11ea-9d5e-2c9ac3f472f7.png)
+
 
 # Auteur
-- ### Tahraoui Abdelkader  - Ingénieur DevOps 
+- ### Tahraoui Abdelkader  - Business Intelligence Developer
 
