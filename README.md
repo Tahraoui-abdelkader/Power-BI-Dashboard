@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# Power BI Dashboard
 
 ## Description
 Power BI is a Microsoft tool which processes data and creates interactive tables and interactive planner. 
@@ -11,10 +11,10 @@ I made a prototype of a dashboard for decision support and a global vision on th
 
 The data which I used is composed of:
 
-- table of products which has 101 products
+- Table of products which has 101 products
 - Sellers table which has 45 Vendors
 - Sales table
-- location table which has 12 State
+- Location table which has 12 State
 - Date table 
 
 ## Getting Started with Power BI
@@ -37,11 +37,13 @@ Download and install Power BI version:2020 https://powerbi.microsoft.com/en-us/d
 
 ## Calculate the different measures using DAX language
 
-- total sales
-- total cost
-- total profits
-- total products
-- total unit sales
+- Total sales
+- Total cost
+- Total profits
+- Total products
+- Total unit sales
+
+## 
 
 # Auteur
 - ### Tahraoui Abdelkader  - Ingénieur DevOps 
